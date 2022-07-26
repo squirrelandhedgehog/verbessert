@@ -1,3 +1,13 @@
+Verbessert kernel
+=======================
+
+This is a fork of the Linux kernel that I hope
+will become better than the original.
+One of the main goals is to fix the 2038 bug.
+
+Verbessert means improved in German, btw.
+
+
 Linux kernel
 ============
 
